@@ -1,0 +1,16 @@
+G:\Rebirth\Rebirth\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.deps.json
+G:\Rebirth\Rebirth\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.dll
+G:\Rebirth\Rebirth\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.pdb
+G:\Rebirth\Rebirth\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.csprojResolveAssemblyReference.cache
+G:\Rebirth\Rebirth\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.AssemblyInfo.cs
+G:\Rebirth\Rebirth\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.dll
+G:\Rebirth\Rebirth\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.pdb
+G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.deps.json
+G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.csprojResolveAssemblyReference.cache
+G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.AssemblyInfo.cs
+G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.dll
+G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Release\netcoreapp1.1\Rebirth.Auth.pdb
+G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.dll
+G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Auth.pdb
+G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Common.dll
+G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Release\netcoreapp1.1\Rebirth.Common.pdb

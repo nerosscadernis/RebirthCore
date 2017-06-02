@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "5ab80e7c39a31c59bc4d0594ebece898c4bb065f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "rebirth.common/1.0.0": {
+        "dependencies": {
+          "ComponentAce.Compression.Libs.zlib": "1.0.4"
+        },
+        "runtime": {
+          "Rebirth.Common.dll": {}
+        }
+      },
+      "componentace.compression.libs.zlib/1.0.4": {
+        "runtime": {
+          "lib/netstandard1.6/ComponentAce.Compression.Libs.zlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rebirth.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "componentace.compression.libs.zlib/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DMZMya1J8Bwg3V5kXpMd9w4WH2NQ/YyrO5e43rImSWBI8bRlKP7n61vBmjebw7JDmx6miSNizAwl+KZSOonNHw==",
+      "path": "componentace.compression.libs.zlib/1.0.4",
+      "hashPath": "componentace.compression.libs.zlib.1.0.4.nupkg.sha512"
+    }
+  }
+}

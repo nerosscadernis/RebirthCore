@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Protocole\**" />
+    <EmbeddedResource Remove="Protocole\**" />
+    <None Remove="Protocole\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="IO\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ComponentAce.Compression.Libs.zlib" Version="1.0.4" />
+  </ItemGroup>
+
+</Project>

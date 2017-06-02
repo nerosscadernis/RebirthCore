@@ -1,0 +1,14 @@
+G:\Rebirth\Rebirth\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.deps.json
+G:\Rebirth\Rebirth\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.dll
+G:\Rebirth\Rebirth\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.pdb
+G:\Rebirth\Rebirth\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.csprojResolveAssemblyReference.cache
+G:\Rebirth\Rebirth\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.AssemblyInfo.cs
+G:\Rebirth\Rebirth\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.dll
+G:\Rebirth\Rebirth\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.pdb
+G:\Rebirth\RebirthEmu\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.deps.json
+G:\Rebirth\RebirthEmu\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.dll
+G:\Rebirth\RebirthEmu\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.pdb
+G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.csprojResolveAssemblyReference.cache
+G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.AssemblyInfo.cs
+G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.dll
+G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.pdb

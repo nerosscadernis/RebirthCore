@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth", "Rebirth\Rebirth.csproj", "{91279C40-C29D-4DB5-B0EB-18153932DDEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth.Common", "Rebirth.Common\Rebirth.Common.csproj", "{9BCF1A9D-3CAB-47AD-8F02-BD72D0395F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth.Auth", "Rebirth.Auth\Rebirth.Auth.csproj", "{6DAC84A5-6AD2-4E22-A79E-E750AD766967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth.World", "Rebirth.World\Rebirth.World.csproj", "{8F675483-6318-427C-A29E-4AC34D046998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth.Uplauncher", "Rebirth.Uplauncher\Rebirth.Uplauncher.csproj", "{7C35B880-448C-4396-9DB4-DBC6D4B66002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5Creator", "Md5Creator\Md5Creator.csproj", "{9F16AE45-49B0-4D7E-879B-FDABD26A7428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth.LogEditor", "Rebirth.LogEditor\Rebirth.LogEditor.csproj", "{AE9B14B0-2F76-4F73-9F5D-B220A9C2D9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91279C40-C29D-4DB5-B0EB-18153932DDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91279C40-C29D-4DB5-B0EB-18153932DDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91279C40-C29D-4DB5-B0EB-18153932DDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91279C40-C29D-4DB5-B0EB-18153932DDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCF1A9D-3CAB-47AD-8F02-BD72D0395F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCF1A9D-3CAB-47AD-8F02-BD72D0395F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCF1A9D-3CAB-47AD-8F02-BD72D0395F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCF1A9D-3CAB-47AD-8F02-BD72D0395F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAC84A5-6AD2-4E22-A79E-E750AD766967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAC84A5-6AD2-4E22-A79E-E750AD766967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAC84A5-6AD2-4E22-A79E-E750AD766967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAC84A5-6AD2-4E22-A79E-E750AD766967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F675483-6318-427C-A29E-4AC34D046998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F675483-6318-427C-A29E-4AC34D046998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F675483-6318-427C-A29E-4AC34D046998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F675483-6318-427C-A29E-4AC34D046998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C35B880-448C-4396-9DB4-DBC6D4B66002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C35B880-448C-4396-9DB4-DBC6D4B66002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C35B880-448C-4396-9DB4-DBC6D4B66002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C35B880-448C-4396-9DB4-DBC6D4B66002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F16AE45-49B0-4D7E-879B-FDABD26A7428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F16AE45-49B0-4D7E-879B-FDABD26A7428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F16AE45-49B0-4D7E-879B-FDABD26A7428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F16AE45-49B0-4D7E-879B-FDABD26A7428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9B14B0-2F76-4F73-9F5D-B220A9C2D9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9B14B0-2F76-4F73-9F5D-B220A9C2D9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9B14B0-2F76-4F73-9F5D-B220A9C2D9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9B14B0-2F76-4F73-9F5D-B220A9C2D9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

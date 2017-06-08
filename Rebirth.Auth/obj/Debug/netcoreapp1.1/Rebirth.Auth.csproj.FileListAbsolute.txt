@@ -18,3 +18,14 @@ G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.dll
 G:\Rebirth\RebirthEmu\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.pdb
 G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.World.dll
 G:\Rebirth\RebirthEmu\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.World.pdb
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.Auth.deps.json
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.Auth.dll
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.Auth.pdb
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.Common.dll
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.World.dll
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.Common.pdb
+D:\Rebirth\RebirthCore\Rebirth.Auth\bin\Debug\netcoreapp1.1\Rebirth.World.pdb
+D:\Rebirth\RebirthCore\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.csprojResolveAssemblyReference.cache
+D:\Rebirth\RebirthCore\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.AssemblyInfo.cs
+D:\Rebirth\RebirthCore\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.dll
+D:\Rebirth\RebirthCore\Rebirth.Auth\obj\Debug\netcoreapp1.1\Rebirth.Auth.pdb

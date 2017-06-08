@@ -12,3 +12,10 @@ G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.cspr
 G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.AssemblyInfo.cs
 G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.dll
 G:\Rebirth\RebirthEmu\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.pdb
+D:\Rebirth\RebirthCore\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.deps.json
+D:\Rebirth\RebirthCore\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.dll
+D:\Rebirth\RebirthCore\Rebirth.Common\bin\Debug\netcoreapp1.1\Rebirth.Common.pdb
+D:\Rebirth\RebirthCore\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.csprojResolveAssemblyReference.cache
+D:\Rebirth\RebirthCore\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.AssemblyInfo.cs
+D:\Rebirth\RebirthCore\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.dll
+D:\Rebirth\RebirthCore\Rebirth.Common\obj\Debug\netcoreapp1.1\Rebirth.Common.pdb

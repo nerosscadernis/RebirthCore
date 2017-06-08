@@ -26,3 +26,12 @@ G:\Rebirth\RebirthEmu\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.dll
 G:\Rebirth\RebirthEmu\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.pdb
 G:\Rebirth\RebirthEmu\Rebirth\bin\Debug\netcoreapp1.1\Rebirth.World.dll
 G:\Rebirth\RebirthEmu\Rebirth\bin\Debug\netcoreapp1.1\Rebirth.World.pdb
+D:\Rebirth\RebirthCore\Rebirth\bin\Debug\netcoreapp1.1\Rebirth.deps.json
+D:\Rebirth\RebirthCore\Rebirth\bin\Debug\netcoreapp1.1\Rebirth.runtimeconfig.json
+D:\Rebirth\RebirthCore\Rebirth\bin\Debug\netcoreapp1.1\Rebirth.runtimeconfig.dev.json
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.csprojResolveAssemblyReference.cache
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.Properties.Resources.resources
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.csproj.GenerateResource.Cache
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.AssemblyInfo.cs
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.dll
+D:\Rebirth\RebirthCore\Rebirth\obj\Debug\netcoreapp1.1\Rebirth.pdb

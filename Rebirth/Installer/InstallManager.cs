@@ -90,7 +90,7 @@ namespace Rebirth.Installer
                     ConfigManager.GetAuthValue<string>("db_ip"), ConfigManager.GetAuthValue<string>("db_name"), 
                     ConfigManager.GetAuthValue<string>("db_user"), ConfigManager.GetAuthValue<string>("db_pass"));
                 var connection = new MySqlConnection(connectionString);
-                var script = new MySqlScript(connection, File.ReadAllText(AppContext.BaseDirectory + "auth.sql"));
+                var script = new MySqlScript(connection, File.ReadAllText(AppContext.BaseDirectory + "\\auth.sql"));
                 try
                 {
                     script.Execute();
@@ -206,7 +206,7 @@ namespace Rebirth.Installer
                     ConfigManager.GetWorldValue<string>("db_ip"), ConfigManager.GetWorldValue<string>("db_name"),
                     ConfigManager.GetWorldValue<string>("db_user"), ConfigManager.GetWorldValue<string>("db_pass"));
                 var connection = new MySqlConnection(connectionString);
-                var script = new MySqlScript(connection, File.ReadAllText(AppContext.BaseDirectory + "world.sql"));
+                var script = new MySqlScript(connection, File.ReadAllText(AppContext.BaseDirectory + "\\world.sql"));
                 try
                 {
                     script.Execute();

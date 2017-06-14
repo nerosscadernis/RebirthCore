@@ -1,0 +1,64 @@
+09:39:33|Infos|Rebirth.Auth|Init()|Starter|Line:28|Starting Auth !
+09:39:34|Infos|Rebirth.Auth|Init()|Starter|Line:42|Throw in 0s !
+09:39:34|Infos|Rebirth.World|Init()|Starter|Line:41|Starting World !
+09:39:34|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+09:39:34|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+09:39:35|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+09:39:35|Infos|Rebirth.World|Init()|Starter|Line:59|Throw in 1s !
+09:39:35|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+09:39:58|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+09:39:58|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+09:39:58|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:60|IdentificationMessage
+09:39:58|Send|Rebirth.Auth|Send()|Client|Line:90|LoginQueueStatusMessage
+09:39:58|Send|Rebirth.Auth|Send()|Client|Line:90|IdentificationSuccessMessage
+09:39:58|Send|Rebirth.Auth|Send()|Client|Line:90|ServersListMessage
+09:40:01|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:60|ServerSelectionMessage
+09:40:02|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+09:40:02|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|AccountInformationsMessage
+09:40:02|Send|Rebirth.Auth|Send()|Client|Line:90|SelectedServerDataMessage
+09:40:02|Send|Rebirth.World|Send()|Client|Line:104|HelloGameMessage
+09:40:02|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|AuthenticationTicketMessage
+09:40:02|Send|Rebirth.World|Send()|Client|Line:104|AuthenticationTicketAcceptedMessage
+09:40:02|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|CharactersListRequestMessage
+09:40:02|Send|Rebirth.World|Send()|Client|Line:104|AccountCapabilitiesMessage
+09:40:02|Send|Rebirth.World|Send()|Client|Line:104|CharactersListMessage
+09:40:22|Infos|Rebirth.Auth|Init()|Starter|Line:28|Starting Auth !
+09:40:22|Infos|Rebirth.Auth|Init()|Starter|Line:42|Throw in 0s !
+09:40:22|Infos|Rebirth.World|Init()|Starter|Line:41|Starting World !
+09:40:23|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+09:40:23|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+09:40:23|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+09:40:23|Infos|Rebirth.World|Init()|Starter|Line:59|Throw in 0s !
+09:40:23|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+09:40:29|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+09:40:29|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+09:40:29|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:60|IdentificationMessage
+09:40:29|Send|Rebirth.Auth|Send()|Client|Line:90|LoginQueueStatusMessage
+09:40:29|Send|Rebirth.Auth|Send()|Client|Line:90|IdentificationSuccessMessage
+09:40:29|Send|Rebirth.Auth|Send()|Client|Line:90|ServersListMessage
+09:40:32|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:60|ServerSelectionMessage
+09:40:32|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+09:40:32|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|AccountInformationsMessage
+09:40:32|Send|Rebirth.Auth|Send()|Client|Line:90|SelectedServerDataMessage
+09:40:32|Send|Rebirth.World|Send()|Client|Line:104|HelloGameMessage
+09:40:32|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|AuthenticationTicketMessage
+09:40:32|Send|Rebirth.World|Send()|Client|Line:104|AuthenticationTicketAcceptedMessage
+09:40:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:74|CharactersListRequestMessage
+09:40:33|Send|Rebirth.World|Send()|Client|Line:104|AccountCapabilitiesMessage
+09:40:33|Send|Rebirth.World|Send()|Client|Line:104|CharactersListMessage
+11:13:53|Infos|Rebirth.Auth|Init()|Starter|Line:28|Starting Auth !
+11:13:53|Infos|Rebirth.Auth|Init()|Starter|Line:42|Throw in 0s !
+11:13:53|Infos|Rebirth.World|Init()|Starter|Line:41|Starting World !
+11:13:53|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+11:13:53|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:13:53|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+11:13:53|Infos|Rebirth.World|Init()|Starter|Line:59|Throw in 0s !
+11:13:54|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:24:24|Infos|Rebirth.Auth|Init()|Starter|Line:28|Starting Auth !
+11:24:24|Infos|Rebirth.Auth|Init()|Starter|Line:42|Throw in 0s !
+11:24:24|Infos|Rebirth.World|Init()|Starter|Line:41|Starting World !
+11:24:25|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+11:24:25|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:24:25|Send|Rebirth.World|Send()|Client|Line:104|UpdateStatuServerMessage
+11:24:25|Infos|Rebirth.World|Init()|Starter|Line:59|Throw in 0s !
+11:24:25|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage

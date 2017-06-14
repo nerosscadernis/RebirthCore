@@ -24,3 +24,5 @@ G:\Rebirth\RebirthEmu\Rebirth\bin\Release\netcoreapp1.1\Rebirth.World.dll
 G:\Rebirth\RebirthEmu\Rebirth\bin\Release\netcoreapp1.1\Rebirth.Auth.pdb
 G:\Rebirth\RebirthEmu\Rebirth\bin\Release\netcoreapp1.1\Rebirth.World.pdb
 G:\Rebirth\RebirthEmu\Rebirth\bin\Release\netcoreapp1.1\Rebirth.Common.pdb
+G:\Rebirth\RebirthEmu\Rebirth\obj\Release\netcoreapp1.1\Rebirth.Properties.Resources.resources
+G:\Rebirth\RebirthEmu\Rebirth\obj\Release\netcoreapp1.1\Rebirth.csproj.GenerateResource.Cache

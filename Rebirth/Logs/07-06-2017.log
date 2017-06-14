@@ -1,0 +1,26 @@
+02:47:38|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+02:47:39|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 750ms !
+02:47:39|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+02:47:39|Send|Rebirth.World|Send()|Client|Line:115|UpdateStatuServerMessage
+02:47:39|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+02:47:40|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+02:47:40|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+02:47:40|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+02:47:40|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 27
+02:47:40|Send|Rebirth.World|Send()|Client|Line:115|UpdateStatuServerMessage
+02:47:41|Infos|Rebirth.World|Init()|Starter|Line:64|Throw in 1297ms !
+02:47:41|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+02:47:43|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:47:43|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+02:48:21|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:48:21|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+02:51:47|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:51:47|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+02:53:13|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:53:13|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+02:55:19|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:55:19|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+02:57:39|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+02:57:40|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage
+03:02:43|Send|Rebirth.Auth|Send()|Client|Line:90|ProtocolRequired
+03:02:43|Send|Rebirth.Auth|Send()|Client|Line:90|RawDataMessage

@@ -1,0 +1,1150 @@
+10:10:37|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+10:10:38|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 11235ms !
+10:10:38|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+10:10:38|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:10:38|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:10:39|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+10:10:39|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+10:10:39|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+10:10:39|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+10:10:39|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+10:10:40|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+10:10:40|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:10:40|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 1719ms !
+10:10:40|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:10:46|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:10:46|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:10:48|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:10:48|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:10:48|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:10:48|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:10:48|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:10:48|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:10:48|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:10:48|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:10:48|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:10:48|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:10:49|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:10:49|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:10:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:10:49|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:10:49|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:10:52|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:10:52|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+10:10:53|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+10:10:54|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+10:10:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+10:10:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+10:10:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SpouseGetInformationsMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+10:10:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+10:10:55|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+10:10:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+10:10:55|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+10:10:56|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:10:56|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:10:56|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:10:58|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+10:10:58|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+10:11:04|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:11:04|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:11:04|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:11:04|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:11:06|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:11:06|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:11:06|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:11:06|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:11:06|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+10:11:06|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+10:11:08|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:11:08|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:11:10|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:11:18|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|NotificationUpdateFlagMessage
+10:11:18|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : NotificationUpdateFlagMessage
+10:13:19|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+10:13:20|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 500ms !
+10:13:20|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+10:13:20|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:13:20|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:13:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+10:13:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+10:13:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+10:13:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+10:13:20|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+10:13:20|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+10:13:20|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:13:21|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 704ms !
+10:13:21|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:13:26|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:13:26|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:13:27|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:13:27|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:13:27|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:13:27|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:13:28|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:13:28|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:13:28|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:13:29|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:13:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+10:13:30|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+10:13:31|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+10:13:32|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+10:13:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+10:13:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+10:13:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+10:13:33|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+10:13:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+10:13:33|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:13:33|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:13:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:13:34|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+10:13:34|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:13:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:13:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:13:34|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:13:34|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:13:34|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:13:34|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:13:35|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+10:13:35|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+10:13:36|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:13:36|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:13:38|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:13:39|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:13:39|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:13:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:13:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|InteractiveUseRequestMessage
+10:13:40|Send|Rebirth.World|Send()|Client|Line:111|InteractiveUsedMessage
+10:13:43|Send|Rebirth.World|Send()|Client|Line:111|StatedElementUpdatedMessage
+10:13:43|Send|Rebirth.World|Send()|Client|Line:111|InteractiveElementUpdatedMessage
+10:13:43|Send|Rebirth.World|Send()|Client|Line:111|InteractiveUseEndedMessage
+10:13:43|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceUpdateMessage
+10:13:43|Send|Rebirth.World|Send()|Client|Line:111|JobLevelUpMessage
+10:13:45|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:13:45|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:13:46|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:13:52|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|NotificationUpdateFlagMessage
+10:13:52|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : NotificationUpdateFlagMessage
+10:13:57|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:13:57|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:13:59|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementCancelMessage
+10:13:59|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:13:59|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : GameMapMovementCancelMessage
+10:13:59|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:14:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:14:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ChangeMapMessage
+10:14:00|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:14:00|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:14:01|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:14:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:14:01|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:14:01|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:14:02|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:14:02|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:14:02|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:14:04|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:14:13|Send|Rebirth.World|Send()|Client|Line:111|StatedElementUpdatedMessage
+10:14:13|Send|Rebirth.World|Send()|Client|Line:111|InteractiveElementUpdatedMessage
+10:14:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:14:34|Infos|Rebirth.World|Disconnect()|Client|Line:93|Name : 'Lodyek-Qoijah' disconnected !
+10:15:14|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+10:15:15|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 500ms !
+10:15:15|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+10:15:15|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:15:15|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:15:16|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+10:15:16|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+10:15:16|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+10:15:16|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+10:15:16|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+10:15:16|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+10:15:16|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:15:16|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 1312ms !
+10:15:16|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:15:18|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:15:19|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:15:19|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:15:19|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:15:19|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:15:19|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:15:19|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:15:20|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:15:20|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:15:20|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:15:20|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:15:21|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:15:21|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:15:21|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:15:24|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+10:15:24|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:15:25|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+10:15:26|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+10:15:26|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+10:15:26|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+10:15:27|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+10:15:27|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+10:15:27|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+10:15:27|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:15:27|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+10:15:27|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:15:27|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:15:28|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:15:28|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:15:28|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:15:28|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:15:28|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:15:28|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:15:28|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+10:15:28|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+10:15:37|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:15:38|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:15:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:15:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ChangeMapMessage
+10:15:40|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:15:40|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:15:40|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:15:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:16:09|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:16:09|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:16:09|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:16:14|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:16:14|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:16:17|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:16:17|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:16:17|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:16:17|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:16:29|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:16:29|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:16:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:16:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|InteractiveUseRequestMessage
+10:16:30|Send|Rebirth.World|Send()|Client|Line:111|InteractiveUsedMessage
+10:16:33|Send|Rebirth.World|Send()|Client|Line:111|StatedElementUpdatedMessage
+10:16:33|Send|Rebirth.World|Send()|Client|Line:111|InteractiveElementUpdatedMessage
+10:16:34|Send|Rebirth.World|Send()|Client|Line:111|InteractiveUseEndedMessage
+10:16:34|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceUpdateMessage
+10:16:34|Send|Rebirth.World|Send()|Client|Line:111|JobLevelUpMessage
+10:16:35|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:16:35|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:16:37|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:16:37|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:16:37|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:16:37|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:16:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|NotificationUpdateFlagMessage
+10:16:40|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : NotificationUpdateFlagMessage
+10:17:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:17:00|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:17:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:17:03|Send|Rebirth.World|Send()|Client|Line:111|StatedElementUpdatedMessage
+10:17:03|Send|Rebirth.World|Send()|Client|Line:111|InteractiveElementUpdatedMessage
+10:17:05|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GuidedModeReturnRequestMessage
+10:17:05|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : GuidedModeReturnRequestMessage
+10:17:07|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+10:17:07|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+10:17:07|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
+10:49:22|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+10:49:23|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 516ms !
+10:49:23|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+10:49:23|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:49:23|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:49:23|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+10:49:23|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+10:49:23|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+10:49:23|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+10:49:23|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+10:49:23|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+10:49:23|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:49:24|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 703ms !
+10:49:24|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:49:36|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:49:36|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:49:37|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:49:37|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:49:37|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:49:38|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:49:38|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:49:38|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:49:39|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:49:39|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:49:39|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:49:50|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+10:49:50|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+10:49:51|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+10:49:51|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+10:50:01|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : BasicStatWithDataMessage
+10:50:45|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+10:50:46|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 516ms !
+10:50:46|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+10:50:46|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:50:46|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:50:46|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+10:50:46|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+10:50:46|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+10:50:46|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+10:50:46|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+10:50:46|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+10:50:46|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+10:50:47|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 688ms !
+10:50:47|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+10:50:52|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:50:52|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:50:52|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:50:52|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:50:52|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:50:52|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:50:53|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:50:54|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:50:54|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:50:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:50:54|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:50:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:50:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:50:55|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:51:10|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+10:51:10|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+10:51:11|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+10:51:12|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+10:51:13|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+10:51:13|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+10:51:13|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SpouseGetInformationsMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+10:51:13|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+10:51:13|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+10:51:13|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:51:13|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:51:14|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:51:15|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+10:51:15|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+10:51:17|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:51:17|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:51:18|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:51:18|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:51:19|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:51:19|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:51:19|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:51:19|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:51:19|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+10:51:19|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+10:51:24|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ReloginTokenRequestMessage
+10:51:24|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ReloginTokenRequestMessage
+10:51:25|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ReloginTokenRequestMessage
+10:51:25|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ReloginTokenRequestMessage
+10:51:25|Infos|Rebirth.World|Disconnect()|Client|Line:93|Name : 'Lodyek-Qoijah' disconnected !
+10:51:27|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+10:51:27|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+10:51:27|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+10:51:27|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:51:27|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+10:51:28|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+10:51:28|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+10:51:29|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+10:51:29|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+10:51:29|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+10:51:29|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+10:51:29|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+10:51:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+10:51:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+10:51:30|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:51:46|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+10:51:46|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+10:51:47|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+10:51:47|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+10:51:48|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+10:51:48|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+10:51:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+10:51:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+10:51:49|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : BasicStatWithDataMessage
+10:51:49|Send|Rebirth.World|Send()|Client|Line:111|CreateCharacterMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|CharacterCreationResultMessage
+10:51:50|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|CreateCharacterMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|BasicNoOperationMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+10:51:50|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+10:51:50|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+10:51:51|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+10:51:52|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SpouseGetInformationsMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+10:51:53|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:51:53|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+10:51:53|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+10:51:53|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+10:51:54|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+10:51:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+10:51:54|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+10:51:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+10:51:54|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+10:51:54|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+10:51:54|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+10:51:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+10:51:54|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+10:51:59|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+10:51:59|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+11:33:19|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+11:33:19|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 515ms !
+11:33:19|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+11:33:19|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:33:19|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:33:19|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+11:33:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+11:33:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+11:33:20|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+11:33:20|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+11:33:20|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+11:33:20|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:33:20|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 750ms !
+11:33:20|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+11:33:23|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:33:23|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+11:33:24|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+11:33:25|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+11:33:25|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+11:33:25|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+11:33:25|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+11:33:25|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+11:33:25|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+11:33:25|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+11:33:25|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+11:33:25|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+11:33:25|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+11:33:26|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:33:26|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+11:33:26|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+11:33:26|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:33:26|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+11:33:42|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+11:33:42|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+11:33:46|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+11:33:46|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+11:34:32|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+11:34:33|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 531ms !
+11:34:33|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+11:34:33|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:34:33|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:34:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+11:34:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+11:34:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+11:34:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+11:34:33|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+11:34:33|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+11:34:33|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:34:33|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 719ms !
+11:34:34|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:34:35|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+11:34:35|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+11:34:35|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+11:34:35|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:34:35|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:34:35|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+11:34:36|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+11:34:37|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+11:34:38|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+11:34:38|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+11:34:38|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+11:34:38|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+11:34:38|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:34:39|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+11:34:39|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+11:34:39|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:34:39|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+11:34:56|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+11:34:56|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+11:34:57|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+11:34:57|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+11:34:57|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : BasicStatWithDataMessage
+11:34:57|Send|Rebirth.World|Send()|Client|Line:111|CreateCharacterMessage
+11:34:57|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|CreateCharacterMessage
+11:34:57|Send|Rebirth.World|Send()|Client|Line:111|CharacterCreationResultMessage
+11:34:57|Send|Rebirth.World|Send()|Client|Line:111|BasicNoOperationMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+11:34:58|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+11:34:58|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:34:59|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+11:35:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+11:35:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+11:35:00|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+11:35:01|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+11:35:01|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+11:35:01|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+11:35:01|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+11:35:02|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+11:35:02|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+11:35:02|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+11:35:02|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+11:35:02|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+11:35:07|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+11:35:07|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+11:53:32|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+11:53:33|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 516ms !
+11:53:33|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+11:53:33|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:53:33|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:53:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+11:53:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+11:53:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+11:53:33|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+11:53:34|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+11:53:34|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+11:53:34|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+11:53:34|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 734ms !
+11:53:34|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+11:53:38|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+11:53:38|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+11:53:40|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+11:53:40|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+11:53:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+11:53:40|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+11:53:41|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+11:53:41|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+11:53:41|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+11:53:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+11:53:50|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+11:53:51|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+11:53:51|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+11:53:51|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : BasicStatWithDataMessage
+11:53:51|Send|Rebirth.World|Send()|Client|Line:111|CreateCharacterMessage
+11:53:51|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|CreateCharacterMessage
+11:53:51|Send|Rebirth.World|Send()|Client|Line:111|CharacterCreationResultMessage
+11:53:51|Send|Rebirth.World|Send()|Client|Line:111|BasicNoOperationMessage
+11:53:51|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+11:53:51|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+11:53:52|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+11:53:53|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+11:53:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+11:53:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+11:53:54|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+11:53:54|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+11:53:55|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+11:53:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+11:53:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+11:53:55|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+11:53:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+11:53:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+11:53:55|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+11:53:55|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+11:53:56|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+11:53:56|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+11:53:56|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+11:54:00|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+11:54:00|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestStepInfoRequestMessage
+12:37:01|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+12:37:01|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 562ms !
+12:37:01|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+12:37:01|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+12:37:01|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+12:37:02|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+12:37:02|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+12:37:02|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+12:37:02|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+12:37:02|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+12:37:02|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+12:37:02|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+12:37:02|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 734ms !
+12:37:02|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+12:37:02|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+12:37:02|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+12:37:02|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+12:37:02|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+12:37:02|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+12:37:03|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+12:37:03|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+12:37:03|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+12:37:04|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+12:37:04|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+12:37:04|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+12:37:04|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+12:37:04|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+12:37:04|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+12:37:04|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+12:37:04|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+12:37:04|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+12:37:05|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+12:37:05|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+12:37:05|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+12:37:05|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+12:37:05|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+12:37:05|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+12:37:07|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+12:37:07|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:37:08|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+12:37:09|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+12:37:09|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+12:37:09|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+12:37:10|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+12:37:10|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+12:37:10|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+12:37:10|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+12:37:10|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+12:37:48|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+12:37:49|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 515ms !
+12:37:49|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+12:37:49|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+12:37:49|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+12:37:49|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+12:38:18|Infos|Rebirth.Auth|Init()|Starter|Line:44|Starting Auth !
+12:38:19|Infos|Rebirth.Auth|Init()|Starter|Line:57|Throw in 531ms !
+12:38:19|Infos|Rebirth.World|Init()|Starter|Line:42|Starting World !
+12:38:19|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+12:38:19|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+12:38:19|Infos|Rebirth.World|Init()|InteractiveManager|Line:26|Interactives load = 277
+12:38:19|Infos|Rebirth.World|Init()|InteractiveManager|Line:27|Interactives Datas load = 559
+12:38:19|Infos|Rebirth.World|Init()|InteractiveManager|Line:28|Waypoints load = 43
+12:38:19|Infos|Rebirth.World|Init()|InteractiveManager|Line:30|Interactive construtors load = 29
+12:38:19|Debug|Rebirth.World|Init()|JobsManager|Line:21|Skills load = 267
+12:38:19|Debug|Rebirth.World|Init()|JobsManager|Line:22|Recipes load = 3529
+12:38:19|Send|Rebirth.World|Send()|Client|Line:111|UpdateStatuServerMessage
+12:38:19|Infos|Rebirth.World|Init()|Starter|Line:65|Throw in 719ms !
+12:38:19|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|UpdateStatuServerMessage
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|ProtocolRequired
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|RawDataMessage
+12:38:20|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|IdentificationMessage
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|LoginQueueStatusMessage
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|IdentificationSuccessMessage
+12:38:20|Send|Rebirth.Auth|Send()|Client|Line:93|ServersListMessage
+12:38:22|Receive|Rebirth.Auth|ReceiveEvent_Completed()|Client|Line:62|ServerSelectionMessage
+12:38:22|Send|Rebirth.Auth|Send()|WorldClient|Line:76|AccountInformationsMessage
+12:38:22|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AccountInformationsMessage
+12:38:22|Send|Rebirth.Auth|Send()|Client|Line:93|SelectedServerDataMessage
+12:38:22|Send|Rebirth.World|Send()|Client|Line:111|HelloGameMessage
+12:38:22|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|AuthenticationTicketMessage
+12:38:22|Send|Rebirth.World|Send()|Client|Line:111|AuthenticationTicketAcceptedMessage
+12:38:22|Send|Rebirth.World|Send()|Client|Line:111|ServerSettingsMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|ServerOptionalFeaturesMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|ServerSessionConstantsMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|TrustStatusMessage
+12:38:23|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharactersListRequestMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|AccountCapabilitiesMessage
+12:38:23|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+12:38:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterNameSuggestionRequestMessage
+12:38:30|Send|Rebirth.World|Send()|Client|Line:111|CharacterNameSuggestionSuccessMessage
+12:38:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|BasicStatWithDataMessage
+12:38:30|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterCreationRequestMessage
+12:38:30|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : BasicStatWithDataMessage
+12:38:30|Send|Rebirth.World|Send()|Client|Line:111|CreateCharacterMessage
+12:38:31|Receive|Rebirth.Auth|ReceiveEvent_Completed()|WorldClient|Line:53|CreateCharacterMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|CharacterCreationResultMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|BasicNoOperationMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|CharactersListMessage
+12:38:31|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|CharacterSelectionMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|NotificationListMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|CharacterSelectedSuccessMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|InventoryContentAndPresetMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|RoomAvailableUpdateMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|HavenBagPackListMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|EmoteListMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|JobDescriptionMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|JobExperienceMultiUpdateMessage
+12:38:31|Send|Rebirth.World|Send()|Client|Line:111|JobCrafterDirectorySettingsMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|AlignmentRankUpdateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|DareCreatedListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|DareSubscribedListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|DareWonListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|DareRewardsListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|PrismsListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|EnabledChannelsMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|SpellListMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|ShortcutBarContentMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|InventoryWeightMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnConnectionStateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|FriendWarnOnLevelGainStateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|FriendGuildWarnOnAchievementCompleteStateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|WarnOnPermaDeathStateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|GuildMemberWarnOnConnectionStateMessage
+12:38:32|Send|Rebirth.World|Send()|Client|Line:111|SequenceNumberRequestMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|OnConnectionEventMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|TextInformationMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|ServerExperienceModificatorMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|SpouseStatusMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|AchievementListMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|CharacterCapabilitiesMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|AlmanachCalendarDateMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|IdolListMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|CharacterExperienceGainMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|MailStatusMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|StartupActionsListMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|AccountHouseMessage
+12:38:33|Send|Rebirth.World|Send()|Client|Line:111|CharacterLoadingCompleteMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|FriendsGetListMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|IgnoredGetListMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|FriendsListMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|IgnoredListMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|ClientKeyMessage
+12:38:34|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : ClientKeyMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameContextCreateRequestMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|SequenceNumberMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|GameContextDestroyMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|GameContextCreateMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|CurrentMapMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|CharacterStatsListMessage
+12:38:34|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : SequenceNumberMessage
+12:38:34|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestListRequestMessage
+12:38:34|Send|Rebirth.World|Send()|Client|Line:111|QuestListMessage
+12:38:35|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|MapInformationsRequestMessage
+12:38:35|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+12:38:35|Send|Rebirth.World|Send()|Client|Line:111|MapComplementaryInformationsDataMessage
+12:38:35|Send|Rebirth.World|Send()|Client|Line:111|BasicTimeMessage
+12:38:35|Send|Rebirth.World|Send()|Client|Line:111|SetCharacterRestrictionsMessage
+12:38:35|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|HaapiApiKeyRequestMessage
+12:38:35|Send|Rebirth.World|Send()|Client|Line:111|QuestStepInfoMessage
+12:38:35|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : HaapiApiKeyRequestMessage
+12:38:40|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestStepInfoRequestMessage
+12:38:40|Send|Rebirth.World|Send()|Client|Line:111|QuestStepInfoMessage
+12:39:48|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementRequestMessage
+12:39:48|Send|Rebirth.World|Send()|Client|Line:111|GameMapMovementMessage
+12:39:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|QuestObjectiveValidationMessage
+12:39:49|Error|Rebirth.Common|Execute()|DispatcherCore|Line:53|Unknow treatment for : QuestObjectiveValidationMessage
+12:39:49|Receive|Rebirth.World|ReceiveEvent_Completed()|Client|Line:77|GameMapMovementConfirmMessage
